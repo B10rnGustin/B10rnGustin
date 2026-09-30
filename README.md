@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**B10rnGustin/B10rnGustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Hi,
 💻 Beginning Software Developer | 🧠 Applied Psychology | 👥 Coaching & Development
 
