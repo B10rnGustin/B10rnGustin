@@ -1,60 +1,16 @@
 👋 Hi,
 💻 Beginning Software Developer | 🧠 Applied Psychology | 👥 Coaching & Development
 
-I am a beginning software developer with 8 years of experience in coaching and developing people.
+I am a beginning software developer with 8 years of experience in coaching and leadership.
 
-My background in Applied Psychology taught me how people think, learn and develop. My experience as a coach and leader in customer service taught me how to communicate, analyse problems and improve processes.
 
-Now I am combining that experience with Software Development.
-I enjoy understanding how something works, breaking problems down into smaller steps and building practical solutions.
 
-🛠️ Skills
+With a background in Applied Psychology, I combine people skills with technical development. I work with C#, Python, SQL, Git, OOP and Agile/Scrum.
 
-💻 Software Development
-C#,
-Python,
-Object-Oriented Programming,
-Windows Forms,
-SQL / SQLite,
-Git & GitHub,
-Basic software testing,
-Data modelling,
-CRUD
 
-🧠 People & Development
-Applied Psychology,
-Coaching,
-Leadership,
-Communication,
-Problem solving,
-Personal development,
-Process improvement,
 
-📋 Working method
-Agile / Scrum,
-Systematic thinking,
-Analysing requirements,
-Testing and improving,
-Learning by doing,
+I enjoy analysing problems, building practical solutions and continuously improving my skills.
 
-🚀 What I'm working on
 
-I am currently developing my skills in Software Development and building projects as part of my education.
 
-🎯 What I bring
-
-People + Technology
-
-I understand people, but I also want to understand the technology behind the systems they work with.
-
-My previous experience helps me look at software from the perspective of the user, process and organisation, while my software development education helps me turn those insights into technical solutions.
-
-🌱 My approach
-
-Learn → Build → Test → Improve
-
-I don't expect to know everything yet.
-I believe in learning by doing, making mistakes, understanding why something doesn't work and improving it step by step.
-
-📫 Let's connect
-I'm open to learning, collaborating and connecting with people in Software Development, IT and technology.
+My approach  Learn → Build → Test → Improve  
