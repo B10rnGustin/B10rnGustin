@@ -11,31 +11,31 @@ I enjoy understanding how something works, breaking problems down into smaller s
 🛠️ Skills
 
 💻 Software Development
-C#
-Python
-Object-Oriented Programming
-Windows Forms
-SQL / SQLite
-Git & GitHub
-Basic software testing
-Data modelling
+C#,
+Python,
+Object-Oriented Programming,
+Windows Forms,
+SQL / SQLite,
+Git & GitHub,
+Basic software testing,
+Data modelling,
 CRUD
 
 🧠 People & Development
-Applied Psychology
-Coaching
-Leadership
-Communication
-Problem solving
-Personal development
-Process improvement
+Applied Psychology,
+Coaching,
+Leadership,
+Communication,
+Problem solving,
+Personal development,
+Process improvement,
 
 📋 Working method
-Agile / Scrum
-Systematic thinking
-Analysing requirements
-Testing and improving
-Learning by doing
+Agile / Scrum,
+Systematic thinking,
+Analysing requirements,
+Testing and improving,
+Learning by doing,
 
 🚀 What I'm working on
 
