@@ -10,6 +10,7 @@ Now I am combining that experience with Software Development.
 I enjoy understanding how something works, breaking problems down into smaller steps and building practical solutions.
 
 🛠️ Skills
+
 💻 Software Development
 C#
 Python
@@ -20,6 +21,7 @@ Git & GitHub
 Basic software testing
 Data modelling
 CRUD
+
 🧠 People & Development
 Applied Psychology
 Coaching
@@ -28,12 +30,14 @@ Communication
 Problem solving
 Personal development
 Process improvement
+
 📋 Working method
 Agile / Scrum
 Systematic thinking
 Analysing requirements
 Testing and improving
 Learning by doing
+
 🚀 What I'm working on
 
 I am currently developing my skills in Software Development and building projects as part of my education.
