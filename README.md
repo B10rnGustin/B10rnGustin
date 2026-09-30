@@ -55,16 +55,6 @@ I understand people, but I also want to understand the technology behind the sys
 
 My previous experience helps me look at software from the perspective of the user, process and organisation, while my software development education helps me turn those insights into technical solutions.
 
-📚 Currently learning
-C# & .NET
-Python
-Object-Oriented Programming
-Databases
-Software Testing
-Git & GitHub
-Agile / Scrum
-Software design & documentation
-
 🌱 My approach
 
 Learn → Build → Test → Improve
