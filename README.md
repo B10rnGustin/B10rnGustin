@@ -1,4 +1,4 @@
-👋 Hi,
+Hi,
 Beginning Software Developer | Applied Psychology | Coaching & Development
 
 I am a beginning software developer with 8 years of experience in coaching and leadership.
